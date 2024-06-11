@@ -1,6 +1,3 @@
-# adding as file is too large for git
-Data/events_England.json
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
