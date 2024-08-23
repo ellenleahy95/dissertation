@@ -1,1 +1,6 @@
+Data/events/events_England.json filter=lfs diff=lfs merge=lfs -text
+Data/events/events_France.json filter=lfs diff=lfs merge=lfs -text
+Data/events/events_Germany.json filter=lfs diff=lfs merge=lfs -text
+Data/events/events_Italy.json filter=lfs diff=lfs merge=lfs -text
+Data/events/events_Spain.json filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
